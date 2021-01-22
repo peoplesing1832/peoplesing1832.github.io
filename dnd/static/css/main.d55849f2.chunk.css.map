@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Card/index.css","webpack://src/App.css"],"names":[],"mappings":"AAAA,MACI,WAAY,CACZ,kBACJ,CCHA,YACE,+BAA0B,CAA1B,uBACF","file":"main.d55849f2.chunk.css","sourcesContent":[".card {\n    width: 280px;\n    margin: 0 auto 10px auto;\n}",".flip1-move {\n  transition: all 300ms ease;\n}"]}
