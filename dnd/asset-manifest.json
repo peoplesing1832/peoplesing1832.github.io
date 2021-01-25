@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/dnd/static/css/main.d55849f2.chunk.css",
-    "main.js": "/dnd/static/js/main.ddde62da.chunk.js",
-    "main.js.map": "/dnd/static/js/main.ddde62da.chunk.js.map",
+    "main.css": "/dnd/static/css/main.3db810c6.chunk.css",
+    "main.js": "/dnd/static/js/main.07644060.chunk.js",
+    "main.js.map": "/dnd/static/js/main.07644060.chunk.js.map",
     "runtime-main.js": "/dnd/static/js/runtime-main.a78e9a46.js",
     "runtime-main.js.map": "/dnd/static/js/runtime-main.a78e9a46.js.map",
-    "static/js/2.d2017fc0.chunk.js": "/dnd/static/js/2.d2017fc0.chunk.js",
-    "static/js/2.d2017fc0.chunk.js.map": "/dnd/static/js/2.d2017fc0.chunk.js.map",
+    "static/js/2.9b9daf75.chunk.js": "/dnd/static/js/2.9b9daf75.chunk.js",
+    "static/js/2.9b9daf75.chunk.js.map": "/dnd/static/js/2.9b9daf75.chunk.js.map",
     "index.html": "/dnd/index.html",
-    "static/css/main.d55849f2.chunk.css.map": "/dnd/static/css/main.d55849f2.chunk.css.map",
-    "static/js/2.d2017fc0.chunk.js.LICENSE.txt": "/dnd/static/js/2.d2017fc0.chunk.js.LICENSE.txt"
+    "static/css/main.3db810c6.chunk.css.map": "/dnd/static/css/main.3db810c6.chunk.css.map",
+    "static/js/2.9b9daf75.chunk.js.LICENSE.txt": "/dnd/static/js/2.9b9daf75.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a78e9a46.js",
-    "static/js/2.d2017fc0.chunk.js",
-    "static/css/main.d55849f2.chunk.css",
-    "static/js/main.ddde62da.chunk.js"
+    "static/js/2.9b9daf75.chunk.js",
+    "static/css/main.3db810c6.chunk.css",
+    "static/js/main.07644060.chunk.js"
   ]
 }
